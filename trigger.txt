@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.7 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/dify-sandbox:0.2.7
