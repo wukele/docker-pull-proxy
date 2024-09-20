@@ -1,1 +1,1 @@
-certbot/certbot crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/certbot:latest
+anggenius/qdrant:v1.7.3 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/qdrant:v1.7.3
