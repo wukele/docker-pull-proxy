@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.7 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/dify-sandbox:0.2.7
+ubuntu/squid:latest crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/squid:latest
