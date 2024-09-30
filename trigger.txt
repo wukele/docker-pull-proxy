@@ -1,1 +1,1 @@
-ollama/ollama:latest crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/ollama:latest
+postgres:17.0 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/postgres:17.0
