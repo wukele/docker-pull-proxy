@@ -1,1 +1,1 @@
-elasticsearch:7.10.1 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/elasticsearch:7.10.1
+elasticsearch:7.17.25 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/elasticsearch:7.17.25
