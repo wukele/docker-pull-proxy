@@ -56,3 +56,5 @@ docker tag  registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine nginx:alpin
 ### 有海外服务器的，使用 nginx 
 
 [教程链接地址](https://blog.lty520.faith/%E5%8D%9A%E6%96%87/%E8%87%AA%E5%BB%BAdocker-hub%E5%8A%A0%E9%80%9F%E9%95%9C%E5%83%8F/#%e6%96%b9%e6%a1%88%e4%b8%80%e4%ba%8c%e6%95%b4%e5%90%88)
+
+https://cr.console.aliyun.com/cn-hangzhou/instance/repositories?accounttraceid=faae49b03b444b889374e38e1f7ce4d4eizr
