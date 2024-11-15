@@ -1,1 +1,1 @@
-nifi:1.15.2 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/nifi:1.15.2
+apache/nifi:1.15.3 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/nifi:1.15.2
