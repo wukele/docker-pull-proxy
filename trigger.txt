@@ -1,1 +1,1 @@
-apache/nifi:1.15.3 crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/nifi:1.15.2
+postgres:17.2-bullseye crpi-elfgppyhkytznb53.cn-hangzhou.personal.cr.aliyuncs.com/wukele/nifi:1.15.2
